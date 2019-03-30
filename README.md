@@ -52,6 +52,7 @@ WeChat：Metr05<br />
 ```
 [**下载PDF格式企划书**](https://miaowmeworg-my.sharepoint.com/:b:/g/personal/metr05_miaowmew_org/EXkepc9Xxo1GnS6bmOu4vEgBgrcCTePppLNWm0YqGZW8Gw?e=THnj04)
 -------
+**注释**<br />
 *1.包括桌面级电脑及其配件、移动级电脑及其配件、通讯工具、服务器（准系统）、单片机、现场可编程门阵列（FPGA）<br />
 2.包括编程语言及其算法（应用、竞赛）、视频剪辑及特效、音频剪辑及音效处理、图片合成<br />
 3.包括神经网络算法、自然语言处理、图像识别等算法及其应用<br />
