@@ -1,4 +1,5 @@
-# 计算机爱好者组织的企划`The Homebrew Computer Club.`
+# 计算机爱好者组织的企划
+`The Homebrew Computer Club.`
 >  **本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。*
 > [![知识共享许可协议](https://forthebadge.com/images/badges/cc-nc-sa.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)    [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 
