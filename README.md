@@ -39,7 +39,7 @@
 
 ### 如何加入？
 **可以通过这里的联系方式申请加入**<br />
-Mail：metr05@miaowmew.org 或 store.zac@gmail.org<br />
+Mail：metr05@miaowmew.org 或 store.zac@gmail.com<br />
 短信(Google voice)：+1 714-367-4190<br />
 QQ：384242312<br />
 WeChat：Metr05<br />
